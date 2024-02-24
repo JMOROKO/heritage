@@ -27,3 +27,11 @@ K
 src/exercice3/Vehicule.java,9\f\9f292cc731232a8de2dbfe7fd4cdf7a8546199a5
 J
 src/exercice3/Voiture.java,3\9\39d4b18929ca160ac5bf2a3027f7d586ccdf7b4b
+J
+src/exercice4/Employe.java,3\2\326dd274174c1de4848b11c7ea947c1e6c24535c
+L
+src/exercice4/Ingenieur.java,c\c\ccdea7040726dc8ea677986fa80fbd7d8d809dc0
+J
+src/exercice4/Manager.java,9\d\9d848a5471d20a3658c257e535afefbe370572fd
+G
+src/exercice4/Main.java,2\5\25373eff2c14ec26e73beb0fa123dd602b94d7f5

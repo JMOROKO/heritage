@@ -42,6 +42,15 @@
 <img src="captures/exercice3/4-avion.png"/>
 5. Création de la méthode main:
 <img src="captures/exercice3/5-main.png"/>
+<h3>Excercice 4</h3>
+1. Création class abstraite employe
+<img src="captures/exercice4/1-class-abstraite-employe.png"/>
+2. Création de la class Ingénieur qui hérite de la class Personne
+<img src="captures/exercice4/2-creation-class-ingenieur-herite-employe.png"/>
+3. Création class Manager qui hérite de la class Employe
+<img src="captures/exercice4/3-creer-class-manager-herite-employe.png"/>
+4. Création de la méthode main:
+<img src="captures/exercice4/4-main.png"/>
 
 
 
