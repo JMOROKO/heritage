@@ -31,6 +31,17 @@
    - Déclarer et instensier un livre
    - Afficher les informations de l'adhérent et du livre
 <img src="captures/exercice2/5-main.png"/>
+<h3>Excercice 3</h3>
+1. Création class Vehicule
+<img src="captures/exercice3/1-vehicule.png"/>
+2. Création de la class Voiture qui hérite de la class Vehicule
+<img src="captures/exercice3/2-voiture.png"/>
+3. Création class Moto qui hérite de la class Vehicule
+<img src="captures/exercice3/3-moto.png"/>
+4. Création de la class Avion qui hérite de la class Vehicule
+<img src="captures/exercice3/4-avion.png"/>
+5. Création de la méthode main:
+<img src="captures/exercice3/5-main.png"/>
 
 
 
