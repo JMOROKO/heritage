@@ -35,3 +35,11 @@ J
 src/exercice4/Manager.java,9\d\9d848a5471d20a3658c257e535afefbe370572fd
 G
 src/exercice4/Main.java,2\5\25373eff2c14ec26e73beb0fa123dd602b94d7f5
+I
+src/exercice5/Figure.java,5\3\5379a101970fe4080f2dec2b725c7fa89d8496c3
+I
+src/exercice5/Cercle.java,6\4\6495dbff398ad5ec60c34216400a9a9e68cea510
+L
+src/exercice5/Rectangle.java,8\4\84b2fe94b7373bc1dc536a2bbba00f155597477b
+G
+src/exercice5/Main.java,f\1\f123f133215d270e481b93c70d801c015ee76136
