@@ -51,6 +51,17 @@
 <img src="captures/exercice4/3-creer-class-manager-herite-employe.png"/>
 4. Création de la méthode main:
 <img src="captures/exercice4/4-main.png"/>
+<h3>Excercice 5</h3>
+1. Création class abstraite Figure
+<img src="captures/exercice5/1-Figure.png"/>
+2. Création de la class Cercle
+<img src="captures/exercice5/2-cercle.png"/>
+3. Création class Rectangle
+<img src="captures/exercice4/3-Rectangle.png"/>
+4. Création de la méthode main:
+<img src="captures/exercice4/4-Main.png"/>
+5. Résultat
+<img src="captures/exercice5/5-result.png"/>
 
 
 
