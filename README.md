@@ -57,11 +57,23 @@
 2. Création de la class Cercle
 <img src="captures/exercice5/2-cercle.png"/>
 3. Création class Rectangle
-<img src="captures/exercice4/3-Rectangle.png"/>
+<img src="captures/exercice5/3-Rectangle.png"/>
 4. Création de la méthode main:
-<img src="captures/exercice4/4-Main.png"/>
+<img src="captures/exercice5/4-Main.png"/>
 5. Résultat
 <img src="captures/exercice5/5-result.png"/>
+<h3>Excercice 6</h3>
+1. Création l'interface Empruntable
+<img src="captures/exercice6/1-empruntable.png"/>
+2. Classes Concrètes Livre et DVD
+<img src="captures/exercice6/2-livre.png"/>
+<img src="captures/exercice6/3-DVD.png"/>
+3. Création class Utilisateur
+<img src="captures/exercice6/4-utilisateur.png"/>
+4. Création de la méthode main:
+<img src="captures/exercice6/5-main.png"/>
+5. Résultat
+<img src="captures/exercice6/6-resultat.png"/>
 
 
 

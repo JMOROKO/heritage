@@ -43,3 +43,13 @@ L
 src/exercice5/Rectangle.java,8\4\84b2fe94b7373bc1dc536a2bbba00f155597477b
 G
 src/exercice5/Main.java,f\1\f123f133215d270e481b93c70d801c015ee76136
+N
+src/exercice6/Empruntable.java,8\c\8cd5d0cfd2637df14185a6ded1503413acbb48fd
+H
+src/exercice6/Livre.java,b\4\b49c41efedd424739f150dfb4d107bc193f16c20
+F
+src/exercice6/DVD.java,4\4\44bea390f49d64bc02769430f0c68f260b683343
+N
+src/exercice6/Utilisateur.java,3\9\392ebba1302a4b5076b8174d22bed09bb14f7f41
+V
+&src/exercice6/GestionBibliotheque.java,4\5\4529db0c7189b047ba8890b988dff5bb74854bcd
