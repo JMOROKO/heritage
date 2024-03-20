@@ -53,3 +53,13 @@ N
 src/exercice6/Utilisateur.java,3\9\392ebba1302a4b5076b8174d22bed09bb14f7f41
 V
 &src/exercice6/GestionBibliotheque.java,4\5\4529db0c7189b047ba8890b988dff5bb74854bcd
+K
+src/exercice7/Paiement.java,e\f\ef6ca1311c1fe571c0fe2da497f54292d10f929f
+N
+src/exercice7/CarteCredit.java,c\b\cb538b4e4de6c6654ba38a3e2fd7941ffa2eb5b3
+I
+src/exercice7/PayPal.java,6\c\6cb4037a0871a4d186062544ba803f754deda40b
+K
+src/exercice7/Commande.java,6\d\6dd64ee98c8330e71c836530a5e4420eea0c9f96
+U
+%src/exercice7/GestionPaiementApp.java,e\4\e4c7fe5fa07691457be2d28b980001b7ced7a873

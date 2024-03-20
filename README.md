@@ -42,7 +42,7 @@
 <img src="captures/exercice3/4-avion.png"/>
 5. Création de la méthode main:
 <img src="captures/exercice3/5-main.png"/>
-<h3>Excercice 4</h3>
+<h3>Excercice 4: Classes abstraites</h3>
 1. Création class abstraite employe
 <img src="captures/exercice4/1-class-abstraite-employe.png"/>
 2. Création de la class Ingénieur qui hérite de la class Personne
@@ -51,7 +51,7 @@
 <img src="captures/exercice4/3-creer-class-manager-herite-employe.png"/>
 4. Création de la méthode main:
 <img src="captures/exercice4/4-main.png"/>
-<h3>Excercice 5</h3>
+<h3>Excercice 5: Classe abstraites</h3>
 1. Création class abstraite Figure
 <img src="captures/exercice5/1-Figure.png"/>
 2. Création de la class Cercle
@@ -62,7 +62,7 @@
 <img src="captures/exercice5/4-Main.png"/>
 5. Résultat
 <img src="captures/exercice5/5-result.png"/>
-<h3>Excercice 6</h3>
+<h3>Excercice 6: Les interfaces</h3>
 1. Création l'interface Empruntable
 <img src="captures/exercice6/1-empruntable.png"/>
 2. Classes Concrètes Livre et DVD
@@ -74,6 +74,16 @@
 <img src="captures/exercice6/5-main.png"/>
 5. Résultat
 <img src="captures/exercice6/6-resultat.png"/>
+<h3>Excercice 7: Le polymorphisme</h3>
+1. Création la class Paiement
+<img src="captures/exercice7/1-paiement.png"/>
+2. Classes Dérivées CarteCredit et PayPal
+<img src="captures/exercice7/2-carteCredit.png"/>
+<img src="captures/exercice7/3-paypal.png"/>
+3. Création class Commande
+<img src="captures/exercice7/4-commande.png"/>
+4. Création de la méthode main GestionPaiementApp:
+<img src="captures/exercice7/5-main.png"/>
 
 
 
